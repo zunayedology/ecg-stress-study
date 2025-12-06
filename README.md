@@ -1,12 +1,12 @@
 # Physiological Stress Response in IPCVAI Students: ECG Analysis of Exam Anxiety vs Normal Academic Conditions
 
-* **Author:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE00Y), Biswarup Mukherjee (DLPGC5)
+**Author:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE00Y), Biswarup Mukherjee (DLPGC5)
 
-* **Program:** Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision (IPCV)  
+**Program:** Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision (IPCV)  
 
-* **Course:** Biomedical Signal Processing (P-ITJEL-0024)
+**Course:** Biomedical Signal Processing (P-ITJEL-0024)
 
-* **Institution:** Pázmány Péter Catholic University (PPKE), Hungary  
+**Institution:** Pázmány Péter Catholic University (PPKE), Hungary  
 
 ---
 
