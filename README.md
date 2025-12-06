@@ -1,12 +1,12 @@
 # Physiological Stress Response in IPCVAI Students: ECG Analysis of Exam Anxiety vs Normal Academic Conditions
 
-**Author:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE00Y), Biswarup Mukherjee (DLPGC5)
+* **Author:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE00Y), Biswarup Mukherjee (DLPGC5)
 
-**Program:** Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision (IPCV)  
+* **Program:** Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision (IPCV)  
 
-**Course:** Biomedical Signal Processing (P-ITJEL-0024)
+* **Course:** Biomedical Signal Processing (P-ITJEL-0024)
 
-**Institution:** Pázmány Péter Catholic University (PPKE), Hungary  
+* **Institution:** Pázmány Péter Catholic University (PPKE), Hungary  
 
 ---
 
@@ -18,7 +18,8 @@ The goal was to move beyond standard Heart Rate (HR) analysis and verify if adva
 ## 🧪 The Dataset
 * **Subjects:** 12 Postgraduate Students (Age: 22-26).
 * **Demographics:** Diverse international cohort (Europe, South Asia, Middle East, South America).
-* **Protocol:** * **Baseline:** 30-second single-lead ECG recorded immediately before a major exam.
+* **Protocol:**
+    * **Baseline:** 30-second single-lead ECG recorded immediately before a major exam.
     * **Stress/Recovery:** 30-second ECG recorded immediately after finishing the exam.
 * **Data Format:** Raw binary (`.dat`) files with `int16` digitization ($f_s = 250$ Hz).
 
@@ -26,7 +27,8 @@ The goal was to move beyond standard Heart Rate (HR) analysis and verify if adva
 
 ### 1. Data Extraction & Pre-processing
 * **Loader:** Custom binary parser to handle raw `.dat` files and strip headers.
-* **Filtering:** * **Bandpass:** Butterworth (5–30 Hz) to isolate QRS energy.
+* **Filtering:**
+    * **Bandpass:** Butterworth (5–30 Hz) to isolate QRS energy.
     * **Notch:** IIR Notch filter (50 Hz) to remove powerline interference.
 * **Validation:** Signal quality checks and sampling rate correction ($f_s$ verified at 250 Hz).
 
@@ -74,7 +76,7 @@ The project includes publication-quality visualizations generated via `matplotli
 1.  Clone the repository.
 2.  Install dependencies: `pip install numpy pandas scipy matplotlib seaborn`
 3.  Mount your dataset path (or use sample data).
-4.  Run the notebook `ECG_Analysis_Pipeline.ipynb`.
+4.  Run the notebook `BSP_BYZNESS.ipynb`.
 
 ## 📚 References
 * Pan, J., & Tompkins, W. J. (1985). A real-time QRS detection algorithm. *IEEE Trans. Biomed. Eng*.
