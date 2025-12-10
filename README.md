@@ -1,6 +1,6 @@
-# Physiological Stress Response in IPCVAI Students: ECG Analysis of Exam Anxiety vs Normal Academic Conditions
+# ECG and Nonlinear HRV Analysis: Assessing Stress Recovery Before and After Academic Exams
 
-**Author:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE00Y), Biswarup Mukherjee (DLPGC5)
+**Authors:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE00Y), Biswarup Mukherjee (DLPGC5)
 
 **Program:** Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision (IPCV)  
 
