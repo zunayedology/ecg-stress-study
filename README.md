@@ -1,6 +1,6 @@
 # ECG and Nonlinear HRV Analysis: Assessing Stress Recovery Before and After Academic Exams
 
-**Authors:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE00Y), Biswarup Mukherjee (DLPGC5)
+**Authors:** Md Zunayedul Islam (NBP9YT), Yernur Polatbek (BIE0OY), Biswarup Mukherjee (DLPGC5)
 
 **Program:** Erasmus Mundus Joint Master in Artificial Intelligence for Image Processing and Computer Vision (IPCV)  
 
